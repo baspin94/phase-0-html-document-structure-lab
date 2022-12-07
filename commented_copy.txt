@@ -1,0 +1,26 @@
+<!-- First, we define the DOCTYPE. This element is always required.-->
+
+<!DOCTYPE html>
+
+<!--Next, we will add an <html> element, which tells the 
+    browser that everything within should be interpreted as HTML.-->
+
+<html lang="en">
+
+    <!--What we just there is added an important attribute to this
+    document, lang, which declares what language the page is written in.-->
+
+    <head>
+        <link rel ="stylesheet" type ="text/cass" href ="style.css">
+            <!-- Links in the head section of an HTML page typically
+            serve to import CSS files. You may only need one link, or you may need several.-->
+        
+        <title>My Site Title</title>
+                <!--This tag denotes the title of your webpage. It
+                displays on the tab when the page loads, so keep it short.-->
+
+    </head>
+
+    <body></body>
+
+</html>
